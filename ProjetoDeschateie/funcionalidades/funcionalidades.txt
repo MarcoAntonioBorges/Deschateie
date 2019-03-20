@@ -1,0 +1,2 @@
+Input 1º Funcionalidade Avaliar 
+OutPut 2º Funcionalidade Pesquisar Consultas  de pacientes
