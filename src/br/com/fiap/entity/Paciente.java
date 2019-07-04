@@ -61,6 +61,10 @@ public class Paciente {
 		this.genero = genero;
 	}
 
+	public Paciente(int i, String string, Calendar instance, Genero masculino) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getCodigo() {
 		return codigo;
 	}
